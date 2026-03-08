@@ -23,7 +23,7 @@ on-arrival: z_party_leader = "Joos"; ddp_r += 15; spd_r -= 15; center_dissent +=
 This is...unexpected. We have adopted a policy of strict jingoism, more extreme than Z. Many have fled to the DDP.
 
 @boring
-subtitle: Labor will be made about this.
+subtitle: Labor will be mad about this.
 on-arrival: z_party_leader = "Kaas"; catholics_spd += 5; labor_dissent +=5; reformist_dissent += 1
 
 The idea that our nation is better than any other is a ridiculous bourgoise idea. On other news, this pacifism has appealed to Christians. 
