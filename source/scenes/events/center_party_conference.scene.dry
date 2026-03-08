@@ -18,18 +18,18 @@ The question is, how will we deal with this new faction?
 - @boring: There is no war to fight besides the class war.
 
 @social_facist
-on-arrival: z_party_leader = "Joos"; ddp_r += 15; spd_r -= 15; center_dissent +=15; left_dissent +=20; labor_dissent += 5; reformist_dissent +=10
+on-arrival: z_party_leader = "Joos"; ddp_r += 15; spd_r -= 15; center_dissent +=15; left_dissent +=20; labor_dissent += 5; reformist_dissent +=10; ideal2 = "soc_fac"
 
 This is...unexpected. We have adopted a policy of strict jingoism, more extreme than Z. Many have fled to the DDP.
 
 @boring
 subtitle: Labor will be mad about this.
-on-arrival: z_party_leader = "Kaas"; catholics_spd += 5; labor_dissent +=5; reformist_dissent += 1
+on-arrival: z_party_leader = "Kaas"; catholics_spd += 5; labor_dissent +=5; reformist_dissent += 1; ideal2 = "soc_dem"
 
 The idea that our nation is better than any other is a ridiculous bourgoise idea. On other news, this pacifism has appealed to Christians. 
 
 @patriotic
 subtitle: This will require significant compromise.
-on-arrival: z_party_leader = "Joos"; spd_r += 1; labor_dissent -= 5; left_dissent += 10; center_dissent += 3
+on-arrival: z_party_leader = "Joos"; spd_r += 1; labor_dissent -= 5; left_dissent += 10; center_dissent += 3; ideal2 = "soc_pat"
 
 With the influence of many labor leaders, we have adopted a foreign policy less based on pacifism and more on the non-agression principle.
