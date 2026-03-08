@@ -1,4 +1,4 @@
-title: Social_patriotic_faction
+title: Social patriotic faction
 subtitle: A new faction emerges in the SPD...
 view-if: year = 1928 and month = 12 and z_party_leader = "Marx"
 max-visits: 1
@@ -17,7 +17,7 @@ The question is, how will we deal with thos new faction?
 - @patriotic: We will attempt to accommodate them. We are a big tent party after all.
 - @boring: There is no war to fight besides the class war.
 
-@social facist
+@social_facist
 on-arrival: z_party_leader = "Joos"; ddp_r += 15; spd_r -= 15
 
 This is...unexpected. We have adopted a policy of strict jingoism, more extreme than Z. Many have fled to the DDP.
