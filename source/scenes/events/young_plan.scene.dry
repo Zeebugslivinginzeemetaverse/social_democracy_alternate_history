@@ -41,7 +41,6 @@ on-arrival: nationalism += 5; workers_spd -= 3; old_middle_spd -= 3; new_middle_
 The referendum easily fails with or without our presence in the campaign, with only around 15% of voters supporting it. However, nationalist sentiment is inflammed, and the right-wing parties are using our silence around the Plan as a tacit admission of its faults. Our silence has only emboldened the Right, especially the NSDAP.
 
 @anti_plan
-
 View-if: ideal2 = "soc_fac"
 on-arrival: nationalism +=8; pacifism -=10: rural_spd +=3
 
