@@ -18,6 +18,7 @@ The question is, how will we deal with this new faction?
 - @boring: There is no war to fight besides the class war.
 
 @social_facist
+subtitle: What?
 on-arrival: z_party_leader = "Joos"; ddp_r += 15; spd_r -= 15; center_dissent +=15; left_dissent +=20; labor_dissent += 5; reformist_dissent +=10; ideal2 = "soc_fac"
 
 This is...unexpected. We have adopted a policy of strict jingoism, more extreme than Z. Many have fled to the DDP.
