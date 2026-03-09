@@ -14,6 +14,7 @@ While this seems to be a positive development for the country, the Right is camp
 
 - @pro_plan: Campaign in favor of the Young Plan and against the referendum.
 - @no_plan: Do not campaign on the Young Plan, one way or another.
+- @hate_plan: We will campaign against the plan and for the referendum.
 
 @pro_plan
 
@@ -38,3 +39,8 @@ The referendum easily fails, with only around 15% of voters supporting it. It se
 on-arrival: nationalism += 5; workers_spd -= 3; old_middle_spd -= 3; new_middle_spd -= 3; pacifism -= 1; workers_nsdap += 5; rural_nsdap += 5; rural_dnvp -= 5; catholics_spd -= 5; rural_dvp -= 5;
 
 The referendum easily fails with or without our presence in the campaign, with only around 15% of voters supporting it. However, nationalist sentiment is inflammed, and the right-wing parties are using our silence around the Plan as a tacit admission of its faults. Our silence has only emboldened the Right, especially the NSDAP.
+
+@Hate_plam
+
+View-if: ideal2 = "soc_fac"
+on-arrival: nationalism +=8; pacifism -=10: rural_spd +=3
